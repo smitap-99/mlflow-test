@@ -8,3 +8,4 @@
     python ml_code.py
 ### 4. Start the mlflow ui
     mlflow ui
+### The UI runs at http://localhost:5000 (go to the link using a web browser to view the mlflow ui)
